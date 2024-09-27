@@ -21,5 +21,5 @@
 
 > Sample data screenshots are attached in the document shared
 
-API Documentation is shared in Postman(https://documenter.getpostman.com/view/11794523/2sAXqy3f9z)
+API Documentation is shared in [Postman](https://documenter.getpostman.com/view/11794523/2sAXqy3f9z)
 
