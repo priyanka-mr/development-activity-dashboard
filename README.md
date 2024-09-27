@@ -10,7 +10,7 @@
 ## Prerequisites
 
         1. Github developer token should be updated in the `application.properties` file.
-        2. Elasticsearch password should be updated in the `ElasticsearchConfig` file.
+        2. The Elasticsearch password should be updated in the `ElasticsearchConfig` file.
 
 ### List of APIs
 
@@ -21,5 +21,5 @@
 
 > Sample data screenshots are attached in the document shared
 
-API Documentation is shared in Postman (https://documenter.getpostman.com/view/11794523/2sAXqy3f9z)
+API Documentation is shared in Postman(https://documenter.getpostman.com/view/11794523/2sAXqy3f9z)
 
